@@ -7,6 +7,7 @@
 body {
   background-color: rgb(28, 28, 30); 
   color: #f0f8ff;
+  height: 200vh;
 }
 button {
   right: 1rem;
